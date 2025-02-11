@@ -1,0 +1,1244 @@
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.staticwebassets.runtime.json
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.staticwebassets.endpoints.json
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.exe
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.deps.json
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.runtimeconfig.json
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.pdb
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.AssemblyInfoInputs.cache
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.AssemblyInfo.cs
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.RazorAssemblyInfo.cache
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.RazorAssemblyInfo.cs
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\scopedcss\bundle\PrimeraAppNetCoreMVC.styles.css
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\scopedcss\projectbundle\PrimeraAppNetCoreMVC.bundle.scp.css
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.PrimeraAppNetCoreMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.PrimeraAppNetCoreMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.PrimeraAppNetCoreMVC.props
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PrimeraAppNetCoreMVC.props
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PrimeraAppNetCoreMVC.props
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\refint\PrimeraAppNetCoreMVC.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.pdb
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.genruntimeconfig.cache
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\ref\PrimeraAppNetCoreMVC.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\libman.json
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Humanizer.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.csproj.AssemblyReference.cache
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraA.6DBAA5F1.Up2Date
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaDatos.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaEntidad.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaNegocio.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaEntidad.pdb
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaNegocio.pdb
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaDatos.pdb
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\libman.json
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.staticwebassets.runtime.json
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.staticwebassets.endpoints.json
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.exe
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.deps.json
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.runtimeconfig.json
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.pdb
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Humanizer.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaDatos.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaEntidad.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaNegocio.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaEntidad.pdb
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaNegocio.pdb
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaDatos.pdb
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.csproj.AssemblyReference.cache
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.AssemblyInfoInputs.cache
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.AssemblyInfo.cs
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.RazorAssemblyInfo.cache
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.RazorAssemblyInfo.cs
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\scopedcss\bundle\PrimeraAppNetCoreMVC.styles.css
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\scopedcss\projectbundle\PrimeraAppNetCoreMVC.bundle.scp.css
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.PrimeraAppNetCoreMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.PrimeraAppNetCoreMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.PrimeraAppNetCoreMVC.props
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PrimeraAppNetCoreMVC.props
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PrimeraAppNetCoreMVC.props
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraA.6DBAA5F1.Up2Date
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\refint\PrimeraAppNetCoreMVC.dll
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.pdb
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.genruntimeconfig.cache
+C:\Users\kmd\Documents\3P\PrimeraAppNetCoreMVC\obj\Debug\net8.0\ref\PrimeraAppNetCoreMVC.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\libman.json
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.staticwebassets.endpoints.json
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.staticwebassets.runtime.json
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.exe
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.deps.json
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.runtimeconfig.json
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.pdb
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Humanizer.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaDatos.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaEntidad.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaNegocio.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaEntidad.pdb
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaNegocio.pdb
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaDatos.pdb
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.AssemblyInfoInputs.cache
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.AssemblyInfo.cs
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.RazorAssemblyInfo.cache
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.RazorAssemblyInfo.cs
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\scopedcss\bundle\PrimeraAppNetCoreMVC.styles.css
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\scopedcss\projectbundle\PrimeraAppNetCoreMVC.bundle.scp.css
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.PrimeraAppNetCoreMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.PrimeraAppNetCoreMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.PrimeraAppNetCoreMVC.props
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PrimeraAppNetCoreMVC.props
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PrimeraAppNetCoreMVC.props
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraA.6DBAA5F1.Up2Date
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\refint\PrimeraAppNetCoreMVC.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.pdb
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.genruntimeconfig.cache
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\ref\PrimeraAppNetCoreMVC.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\David\Downloads\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\appsettings.Development.json
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\libman.json
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\appsettings.json
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.staticwebassets.runtime.json
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.staticwebassets.endpoints.json
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.exe
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.deps.json
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.runtimeconfig.json
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.pdb
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Humanizer.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Build.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Common.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.CodeDom.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Text.Json.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaDatos.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaEntidad.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaNegocio.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaEntidad.pdb
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaNegocio.pdb
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaDatos.pdb
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.csproj.AssemblyReference.cache
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.AssemblyInfoInputs.cache
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.AssemblyInfo.cs
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.csproj.CoreCompileInputs.cache
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.RazorAssemblyInfo.cache
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.RazorAssemblyInfo.cs
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\scopedcss\bundle\PrimeraAppNetCoreMVC.styles.css
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\scopedcss\projectbundle\PrimeraAppNetCoreMVC.bundle.scp.css
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.PrimeraAppNetCoreMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.PrimeraAppNetCoreMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.PrimeraAppNetCoreMVC.props
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PrimeraAppNetCoreMVC.props
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PrimeraAppNetCoreMVC.props
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraA.6DBAA5F1.Up2Date
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\refint\PrimeraAppNetCoreMVC.dll
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.pdb
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.genruntimeconfig.cache
+D:\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\ref\PrimeraAppNetCoreMVC.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\libman.json
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.staticwebassets.runtime.json
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.staticwebassets.endpoints.json
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.exe
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.deps.json
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.runtimeconfig.json
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\PrimeraAppNetCoreMVC.pdb
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Humanizer.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaDatos.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaEntidad.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaNegocio.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaEntidad.pdb
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaNegocio.pdb
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\bin\Debug\net8.0\capaDatos.pdb
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.csproj.AssemblyReference.cache
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.AssemblyInfoInputs.cache
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.AssemblyInfo.cs
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.RazorAssemblyInfo.cache
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.RazorAssemblyInfo.cs
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\scopedcss\bundle\PrimeraAppNetCoreMVC.styles.css
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\scopedcss\projectbundle\PrimeraAppNetCoreMVC.bundle.scp.css
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.PrimeraAppNetCoreMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.PrimeraAppNetCoreMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.PrimeraAppNetCoreMVC.props
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PrimeraAppNetCoreMVC.props
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PrimeraAppNetCoreMVC.props
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraA.6DBAA5F1.Up2Date
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\refint\PrimeraAppNetCoreMVC.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.pdb
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\PrimeraAppNetCoreMVC.genruntimeconfig.cache
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\PrimeraAppNetCoreMVC\obj\Debug\net8.0\ref\PrimeraAppNetCoreMVC.dll

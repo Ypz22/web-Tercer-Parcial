@@ -1,0 +1,75 @@
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaDatos\bin\Debug\net8.0\capaDatos.deps.json
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaDatos\bin\Debug\net8.0\capaDatos.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaDatos\bin\Debug\net8.0\capaDatos.pdb
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaDatos\bin\Debug\net8.0\capaEntidad.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaDatos\bin\Debug\net8.0\capaEntidad.pdb
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaDatos\obj\Debug\net8.0\capaDatos.csproj.AssemblyReference.cache
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaDatos\obj\Debug\net8.0\capaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaDatos\obj\Debug\net8.0\capaDatos.AssemblyInfoInputs.cache
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaDatos\obj\Debug\net8.0\capaDatos.AssemblyInfo.cs
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaDatos\obj\Debug\net8.0\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaDatos\obj\Debug\net8.0\capaDatos.csproj.Up2Date
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaDatos\obj\Debug\net8.0\capaDatos.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaDatos\obj\Debug\net8.0\refint\capaDatos.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaDatos\obj\Debug\net8.0\capaDatos.pdb
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaDatos\obj\Debug\net8.0\ref\capaDatos.dll
+C:\Users\kmd\Documents\3P\capaDatos\bin\Debug\net8.0\capaDatos.deps.json
+C:\Users\kmd\Documents\3P\capaDatos\bin\Debug\net8.0\capaDatos.dll
+C:\Users\kmd\Documents\3P\capaDatos\bin\Debug\net8.0\capaDatos.pdb
+C:\Users\kmd\Documents\3P\capaDatos\bin\Debug\net8.0\capaEntidad.dll
+C:\Users\kmd\Documents\3P\capaDatos\bin\Debug\net8.0\capaEntidad.pdb
+C:\Users\kmd\Documents\3P\capaDatos\obj\Debug\net8.0\capaDatos.csproj.AssemblyReference.cache
+C:\Users\kmd\Documents\3P\capaDatos\obj\Debug\net8.0\capaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmd\Documents\3P\capaDatos\obj\Debug\net8.0\capaDatos.AssemblyInfoInputs.cache
+C:\Users\kmd\Documents\3P\capaDatos\obj\Debug\net8.0\capaDatos.AssemblyInfo.cs
+C:\Users\kmd\Documents\3P\capaDatos\obj\Debug\net8.0\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\kmd\Documents\3P\capaDatos\obj\Debug\net8.0\capaDatos.csproj.Up2Date
+C:\Users\kmd\Documents\3P\capaDatos\obj\Debug\net8.0\capaDatos.dll
+C:\Users\kmd\Documents\3P\capaDatos\obj\Debug\net8.0\refint\capaDatos.dll
+C:\Users\kmd\Documents\3P\capaDatos\obj\Debug\net8.0\capaDatos.pdb
+C:\Users\kmd\Documents\3P\capaDatos\obj\Debug\net8.0\ref\capaDatos.dll
+C:\Users\David\Downloads\3P_completo\capaDatos\bin\Debug\net8.0\capaDatos.deps.json
+C:\Users\David\Downloads\3P_completo\capaDatos\bin\Debug\net8.0\capaDatos.dll
+C:\Users\David\Downloads\3P_completo\capaDatos\bin\Debug\net8.0\capaDatos.pdb
+C:\Users\David\Downloads\3P_completo\capaDatos\bin\Debug\net8.0\capaEntidad.dll
+C:\Users\David\Downloads\3P_completo\capaDatos\bin\Debug\net8.0\capaEntidad.pdb
+C:\Users\David\Downloads\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Downloads\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.AssemblyInfoInputs.cache
+C:\Users\David\Downloads\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.AssemblyInfo.cs
+C:\Users\David\Downloads\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.csproj.Up2Date
+C:\Users\David\Downloads\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.dll
+C:\Users\David\Downloads\3P_completo\capaDatos\obj\Debug\net8.0\refint\capaDatos.dll
+C:\Users\David\Downloads\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.pdb
+C:\Users\David\Downloads\3P_completo\capaDatos\obj\Debug\net8.0\ref\capaDatos.dll
+D:\3P_completo\3P_completo\capaDatos\bin\Debug\net8.0\capaDatos.deps.json
+D:\3P_completo\3P_completo\capaDatos\bin\Debug\net8.0\capaDatos.dll
+D:\3P_completo\3P_completo\capaDatos\bin\Debug\net8.0\capaDatos.pdb
+D:\3P_completo\3P_completo\capaDatos\bin\Debug\net8.0\capaEntidad.dll
+D:\3P_completo\3P_completo\capaDatos\bin\Debug\net8.0\capaEntidad.pdb
+D:\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.csproj.AssemblyReference.cache
+D:\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.AssemblyInfoInputs.cache
+D:\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.AssemblyInfo.cs
+D:\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.csproj.CoreCompileInputs.cache
+D:\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.csproj.Up2Date
+D:\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.dll
+D:\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\refint\capaDatos.dll
+D:\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.pdb
+D:\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\ref\capaDatos.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaDatos\bin\Debug\net8.0\capaDatos.deps.json
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaDatos\bin\Debug\net8.0\capaDatos.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaDatos\bin\Debug\net8.0\capaDatos.pdb
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaDatos\bin\Debug\net8.0\capaEntidad.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaDatos\bin\Debug\net8.0\capaEntidad.pdb
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.csproj.AssemblyReference.cache
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.AssemblyInfoInputs.cache
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.AssemblyInfo.cs
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.csproj.Up2Date
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\refint\capaDatos.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\capaDatos.pdb
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaDatos\obj\Debug\net8.0\ref\capaDatos.dll

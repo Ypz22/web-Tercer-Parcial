@@ -1,0 +1,85 @@
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaNegocio\bin\Debug\net8.0\capaNegocio.deps.json
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaNegocio\bin\Debug\net8.0\capaNegocio.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaNegocio\bin\Debug\net8.0\capaNegocio.pdb
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaNegocio\bin\Debug\net8.0\capaDatos.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaNegocio\bin\Debug\net8.0\capaEntidad.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaNegocio\bin\Debug\net8.0\capaDatos.pdb
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaNegocio\bin\Debug\net8.0\capaEntidad.pdb
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaNegocio\obj\Debug\net8.0\capaNegocio.csproj.AssemblyReference.cache
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaNegocio\obj\Debug\net8.0\capaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaNegocio\obj\Debug\net8.0\capaNegocio.AssemblyInfoInputs.cache
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaNegocio\obj\Debug\net8.0\capaNegocio.AssemblyInfo.cs
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaNegocio\obj\Debug\net8.0\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaNegocio\obj\Debug\net8.0\capaNego.836DF9B9.Up2Date
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaNegocio\obj\Debug\net8.0\capaNegocio.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaNegocio\obj\Debug\net8.0\refint\capaNegocio.dll
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaNegocio\obj\Debug\net8.0\capaNegocio.pdb
+C:\Users\YALEDAPC\4to semestre\ProgramacionWeb\3P\capaNegocio\obj\Debug\net8.0\ref\capaNegocio.dll
+C:\Users\kmd\Documents\3P\capaNegocio\bin\Debug\net8.0\capaNegocio.deps.json
+C:\Users\kmd\Documents\3P\capaNegocio\bin\Debug\net8.0\capaNegocio.dll
+C:\Users\kmd\Documents\3P\capaNegocio\bin\Debug\net8.0\capaNegocio.pdb
+C:\Users\kmd\Documents\3P\capaNegocio\bin\Debug\net8.0\capaDatos.dll
+C:\Users\kmd\Documents\3P\capaNegocio\bin\Debug\net8.0\capaEntidad.dll
+C:\Users\kmd\Documents\3P\capaNegocio\bin\Debug\net8.0\capaDatos.pdb
+C:\Users\kmd\Documents\3P\capaNegocio\bin\Debug\net8.0\capaEntidad.pdb
+C:\Users\kmd\Documents\3P\capaNegocio\obj\Debug\net8.0\capaNegocio.csproj.AssemblyReference.cache
+C:\Users\kmd\Documents\3P\capaNegocio\obj\Debug\net8.0\capaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmd\Documents\3P\capaNegocio\obj\Debug\net8.0\capaNegocio.AssemblyInfoInputs.cache
+C:\Users\kmd\Documents\3P\capaNegocio\obj\Debug\net8.0\capaNegocio.AssemblyInfo.cs
+C:\Users\kmd\Documents\3P\capaNegocio\obj\Debug\net8.0\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\kmd\Documents\3P\capaNegocio\obj\Debug\net8.0\capaNego.836DF9B9.Up2Date
+C:\Users\kmd\Documents\3P\capaNegocio\obj\Debug\net8.0\capaNegocio.dll
+C:\Users\kmd\Documents\3P\capaNegocio\obj\Debug\net8.0\refint\capaNegocio.dll
+C:\Users\kmd\Documents\3P\capaNegocio\obj\Debug\net8.0\capaNegocio.pdb
+C:\Users\kmd\Documents\3P\capaNegocio\obj\Debug\net8.0\ref\capaNegocio.dll
+C:\Users\David\Downloads\3P_completo\capaNegocio\bin\Debug\net8.0\capaNegocio.deps.json
+C:\Users\David\Downloads\3P_completo\capaNegocio\bin\Debug\net8.0\capaNegocio.dll
+C:\Users\David\Downloads\3P_completo\capaNegocio\bin\Debug\net8.0\capaNegocio.pdb
+C:\Users\David\Downloads\3P_completo\capaNegocio\bin\Debug\net8.0\capaDatos.dll
+C:\Users\David\Downloads\3P_completo\capaNegocio\bin\Debug\net8.0\capaEntidad.dll
+C:\Users\David\Downloads\3P_completo\capaNegocio\bin\Debug\net8.0\capaDatos.pdb
+C:\Users\David\Downloads\3P_completo\capaNegocio\bin\Debug\net8.0\capaEntidad.pdb
+C:\Users\David\Downloads\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Downloads\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.AssemblyInfoInputs.cache
+C:\Users\David\Downloads\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.AssemblyInfo.cs
+C:\Users\David\Downloads\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\3P_completo\capaNegocio\obj\Debug\net8.0\capaNego.836DF9B9.Up2Date
+C:\Users\David\Downloads\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.dll
+C:\Users\David\Downloads\3P_completo\capaNegocio\obj\Debug\net8.0\refint\capaNegocio.dll
+C:\Users\David\Downloads\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.pdb
+C:\Users\David\Downloads\3P_completo\capaNegocio\obj\Debug\net8.0\ref\capaNegocio.dll
+D:\3P_completo\3P_completo\capaNegocio\bin\Debug\net8.0\capaNegocio.deps.json
+D:\3P_completo\3P_completo\capaNegocio\bin\Debug\net8.0\capaNegocio.dll
+D:\3P_completo\3P_completo\capaNegocio\bin\Debug\net8.0\capaNegocio.pdb
+D:\3P_completo\3P_completo\capaNegocio\bin\Debug\net8.0\capaDatos.dll
+D:\3P_completo\3P_completo\capaNegocio\bin\Debug\net8.0\capaEntidad.dll
+D:\3P_completo\3P_completo\capaNegocio\bin\Debug\net8.0\capaDatos.pdb
+D:\3P_completo\3P_completo\capaNegocio\bin\Debug\net8.0\capaEntidad.pdb
+D:\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.csproj.AssemblyReference.cache
+D:\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.AssemblyInfoInputs.cache
+D:\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.AssemblyInfo.cs
+D:\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.csproj.CoreCompileInputs.cache
+D:\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\capaNego.836DF9B9.Up2Date
+D:\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.dll
+D:\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\refint\capaNegocio.dll
+D:\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.pdb
+D:\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\ref\capaNegocio.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaNegocio\bin\Debug\net8.0\capaNegocio.deps.json
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaNegocio\bin\Debug\net8.0\capaNegocio.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaNegocio\bin\Debug\net8.0\capaNegocio.pdb
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaNegocio\bin\Debug\net8.0\capaDatos.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaNegocio\bin\Debug\net8.0\capaEntidad.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaNegocio\bin\Debug\net8.0\capaDatos.pdb
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaNegocio\bin\Debug\net8.0\capaEntidad.pdb
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.csproj.AssemblyReference.cache
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.AssemblyInfoInputs.cache
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.AssemblyInfo.cs
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\capaNego.836DF9B9.Up2Date
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\refint\capaNegocio.dll
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\capaNegocio.pdb
+C:\Users\jeffe\Downloads\3P_completo\3P_completo\3P_completo\capaNegocio\obj\Debug\net8.0\ref\capaNegocio.dll
